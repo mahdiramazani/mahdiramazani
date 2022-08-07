@@ -29,6 +29,7 @@ Backend Developer
 
 [<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](mailto:mahdiramazanii.official@gmail.com)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="50">](https://t.me/mahdiramazani)
+[<img src="https://s6.uupload.ir/files/1372374_862_8okc.jpg" alt="telegram" width="50">](https://instagram/mahdiramezani.dev)
 
 
 
