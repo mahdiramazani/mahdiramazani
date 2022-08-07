@@ -1,4 +1,4 @@
-My name is MahdiRamazani
+<img src="https://s6.uupload.ir/files/whatsapp_image_2022-08-07_at_10.28.38_am_favq.jpeg" width="60"> My name is MahdiRamazani
 ===============================
 
 Backend Developer
@@ -14,11 +14,16 @@ Backend Developer
 
 
 
-[<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
-<img src="https://s6.uupload.ir/files/index_ji6p.png" width="100">
-[<img src="https://cdn.iconscout.com/icon/free/png-256/kotlin-283155.png" alt="kotlin" width="100">](https://kotlinlang.org/docs/home.html)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/android-3521272-2944776.png" alt="android" width="100">](https://developer.android.com/reference)
-[<img src="https://hsto.org/webt/5b/2e/6a/5b2e6a4a389cc942256392.png" alt="golang" width="100">](https://golang.org/doc/)
+[<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="80">](https://docs.python.org/3/library/index.html)
+<img src="https://s6.uupload.ir/files/index_ji6p.png" width="80">
+<img src="https://s6.uupload.ir/files/sd5wdmdjrzqp_jhtd.png" width="100">
+<img src="https://s6.uupload.ir/files/18133_bsw6.png" width="80">
+<img src="https://s6.uupload.ir/files/5429470_4hea.png" width="100">
+<img src="https://s6.uupload.ir/files/640px-html5_logo_and_wordmark.svg_x5vi.png" width="80">
+<img src="https://s6.uupload.ir/files/index1_m23j.png" width="60">
+<img src="https://s6.uupload.ir/files/bootstrap_logoc.svg_z64c.png" width="100">
+
+
 
 
 
@@ -28,7 +33,6 @@ Backend Developer
 
 
 
-<img src="https://s6.uupload.ir/files/index_ji6p.png" width="100">
 
 
 
