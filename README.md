@@ -16,7 +16,8 @@ Backend Developer
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="80">](https://docs.python.org/3/library/index.html)
 <img src="https://s6.uupload.ir/files/index_ji6p.png" width="80">
-<img src="https://s6.uupload.ir/files/sd5wdmdjrzqp_jhtd.png" width="100">
+<img src="https://s6.uupload.ir/files/sd5wdmdjrzqp_jhtd.png" width="120">
+<img src="https://s6.uupload.ir/files/index_s826.png" width="130">
 <img src="https://s6.uupload.ir/files/18133_bsw6.png" width="80">
 <img src="https://s6.uupload.ir/files/5429470_4hea.png" width="100">
 <img src="https://s6.uupload.ir/files/640px-html5_logo_and_wordmark.svg_x5vi.png" width="80">
