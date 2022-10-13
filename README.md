@@ -1,4 +1,4 @@
-<img src="https://s6.uupload.ir/files/whatsapp_image_2022-08-07_at_10.28.38_am_favq.jpeg" width="60"> My name is MahdiRamazani
+My name is MahdiRamazani
 ===============================
 
 Backend Developer
